@@ -11,30 +11,37 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Slf4j
-@Controller
+@RestController
 public class MainController {
 
-
-    //
-
-    private String message = "from Dianka";
-
-
-    @RequestMapping(value = {"/"}, method = RequestMethod.GET)
-    public ModelAndView index(Model model) {
-        ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("index");
-        model.addAttribute("message", message);
-        return modelAndView;
+    @GetMapping("/admin/get")
+    public String getAdmin() {
+        return "Hi admin";
     }
 
-    @RequestMapping(value = {"/concertPage"}, method = RequestMethod.GET)
-    public ModelAndView concertPage(Model model) {
-        ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("concert_page");
-        model.addAttribute("message", message);
-        return modelAndView;
+    @GetMapping("/user/get")
+    public String getUser() {
+        return "Hi user";
     }
+
+//    private String message = "from Dianka";
+//
+//
+//    @RequestMapping(value = {"/"}, method = RequestMethod.GET)
+//    public ModelAndView index(Model model) {
+//        ModelAndView modelAndView = new ModelAndView();
+//        modelAndView.setViewName("index");
+//        model.addAttribute("message", message);
+//        return modelAndView;
+//    }
+//
+//    @RequestMapping(value = {"/concertPage"}, method = RequestMethod.GET)
+//    public ModelAndView concertPage(Model model) {
+//        ModelAndView modelAndView = new ModelAndView();
+//        modelAndView.setViewName("concert_page");
+//        model.addAttribute("message", message);
+//        return modelAndView;
+//    }
 
 }
 

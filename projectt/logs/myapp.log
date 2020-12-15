@@ -177,3 +177,134 @@
 2020-12-11 05:00:38 DEBUG MainRestController:99 - get user by token
 2020-12-11 05:00:38 DEBUG MainRestController:99 - get user by token
 2020-12-11 05:00:39 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:00:28 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:00:29 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:00:29 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:00:30 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:01:18 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:03:50 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:03:50 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:03:50 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:03:50 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:03:50 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:03:50 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:02 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:12 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:12 INFO  UserServiceAspect:40 - user id = 3
+2020-12-11 08:04:12 INFO  UserServiceAspect:59 - After callAtUserServiceSaveUser
+2020-12-11 08:04:12 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:14 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:17 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:21 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:04:21 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:21 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:21 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:21 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:21 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:23 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:26 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:32 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:04:32 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:32 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:32 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:32 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:41 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:43 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:47 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:04:47 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:04:47 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:47 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:47 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:47 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:04:56 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:05 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:07 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:07 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:26 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:29 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:31 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:31 INFO  UserServiceAspect:40 - user id = 3
+2020-12-11 08:05:31 INFO  UserServiceAspect:59 - After callAtUserServiceSaveUser
+2020-12-11 08:05:31 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:37 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:39 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:41 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:05:48 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:05:48 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:05:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:05:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:06:12 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:07:05 DEBUG MainRestController:52 - try to register user
+2020-12-11 08:07:05 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:07:05 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:07:20 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:07:36 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:07:36 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:07:36 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:36 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:36 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:39 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:07:47 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:07:48 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:07:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:07:48 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:08:11 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:08:11 INFO  UserServiceAspect:40 - user id = 4
+2020-12-11 08:08:11 INFO  UserServiceAspect:59 - After callAtUserServiceSaveUser
+2020-12-11 08:08:11 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:08:12 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:08:14 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:09:43 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:09:43 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:09:43 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:09:43 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:09:44 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:09:44 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:09 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:19 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:21 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:10:25 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:10:29 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:10:30 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:10:30 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:30 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:30 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:40 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:50 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:52 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:10:56 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:10:56 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:10:56 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:56 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:56 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:10:56 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:11:06 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:11:18 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:11:50 DEBUG MainRestController:52 - try to register user
+2020-12-11 08:11:50 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:11:50 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:12:01 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:12:27 DEBUG MainRestController:74 - try to login user
+2020-12-11 08:12:27 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:12:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:12:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:12:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:12:27 DEBUG MainRestController:99 - get user by token
+2020-12-11 08:19:41 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:19:41 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:20:28 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:20:47 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:30:19 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:30:19 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:30:36 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:30:36 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:31:18 INFO  UserServiceAspect:48 - is user exist = User(id=2, login=1111, password=$2a$10$2zhtaQLo45LF7yQzMHZOi.ky3Xqln/ACXcWVvGwX6jIz9ew/EeVk2, userRole=UserRole(id=1, name=ROLE_DOCTOR), active=true, email=fpfpfppfp@gmail.com, activationCode=null)
+2020-12-11 08:31:18 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
+2020-12-11 08:50:38 DEBUG MainRestController:38 - getting all users
+2020-12-11 08:51:46 INFO  UserServiceAspect:48 - is user exist = null
+2020-12-11 08:51:46 INFO  UserServiceAspect:54 - After callAtUserServiceExistsUserByLogin
